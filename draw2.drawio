@@ -1,0 +1,28 @@
+<mxfile host="65bd71144e">
+    <diagram id="v1svXNOKO6W094VSKLtl" name="Page-1">
+        <mxGraphModel dx="1856" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="-90" y="230" width="60" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="-455" y="200" width="60" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="-80" y="310" width="60" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="●&#xa;    ●       ●&#xa;&#xa;       (A)&#xa;&#xa;    ●       ●" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-10" y="30" width="60" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="140" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="&lt;table data-start=&quot;5758&quot; data-end=&quot;5932&quot; class=&quot;w-fit min-w-(--thread-content-width)&quot;&gt;&lt;thead data-start=&quot;5758&quot; data-end=&quot;5778&quot;&gt;&lt;tr data-start=&quot;5758&quot; data-end=&quot;5778&quot;&gt;&lt;th data-start=&quot;5758&quot; data-end=&quot;5768&quot; data-col-size=&quot;sm&quot; class=&quot;last:pe-10&quot;&gt;K-Means&lt;/th&gt;&lt;th data-start=&quot;5768&quot; data-end=&quot;5778&quot; data-col-size=&quot;sm&quot; class=&quot;last:pe-10&quot;&gt;DBSCAN&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody data-start=&quot;5802&quot; data-end=&quot;5932&quot;&gt;&lt;tr data-start=&quot;5802&quot; data-end=&quot;5828&quot;&gt;&lt;td data-start=&quot;5802&quot; data-end=&quot;5811&quot; data-col-size=&quot;sm&quot;&gt;Need K&lt;/td&gt;&lt;td data-start=&quot;5811&quot; data-end=&quot;5828&quot; data-col-size=&quot;sm&quot;&gt;No K required&lt;/td&gt;&lt;/tr&gt;&lt;tr data-start=&quot;5829&quot; data-end=&quot;5869&quot;&gt;&lt;td data-start=&quot;5829&quot; data-end=&quot;5849&quot; data-col-size=&quot;sm&quot;&gt;Circular clusters&lt;/td&gt;&lt;td data-start=&quot;5849&quot; data-end=&quot;5869&quot; data-col-size=&quot;sm&quot;&gt;Arbitrary shapes&lt;/td&gt;&lt;/tr&gt;&lt;tr data-start=&quot;5870&quot; data-end=&quot;5914&quot;&gt;&lt;td data-start=&quot;5870&quot; data-end=&quot;5894&quot; data-col-size=&quot;sm&quot;&gt;Sensitive to outliers&lt;/td&gt;&lt;td data-col-size=&quot;sm&quot; data-start=&quot;5894&quot; data-end=&quot;5914&quot;&gt;Detects outliers&lt;/td&gt;&lt;/tr&gt;&lt;tr data-start=&quot;5915&quot; data-end=&quot;5932&quot;&gt;&lt;td data-start=&quot;5915&quot; data-end=&quot;5922&quot; data-col-size=&quot;sm&quot;&gt;Fast&lt;/td&gt;&lt;td data-col-size=&quot;sm&quot; data-start=&quot;5922&quot; data-end=&quot;5932&quot;&gt;Slower&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="210" y="250" width="230" height="110" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
